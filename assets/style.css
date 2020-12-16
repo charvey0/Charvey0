@@ -6,3 +6,9 @@ nav {
     float:left;
     width: 20%;
 }
+
+nav a{
+    display: block;
+    margin: 10px;
+    text-align: center;
+}
