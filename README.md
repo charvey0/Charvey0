@@ -1,7 +1,7 @@
-### Cameron Harvey's GitHub Profile
+### Important Links about Cameron Harvey
 
-<a id="raw-url" href="https://raw.githubusercontent.com/charvey0/charvey0/main/assets/resume.pdf">Resume</a>
+<a href="https://github.com/charvey0/charvey0/raw/main/assets/resume.pdf" target="_blank">Resume</a>
 
-Portfolio
+<a href="https://charvey0.github.io/Portfolio/" target="_blank">Portfolio</a>
 
-LinkedIn Profile
+<a href="https://www.linkedin.com/in/cameron-harvey-46a60b120/" target="_blank">LinkedIn Profile</a>

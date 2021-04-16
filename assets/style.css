@@ -1,14 +1,61 @@
 body {
-    background-color: lightslategray;
+    background-color: whitesmoke;
+    font-family: 'Oswald', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serifs;
+}
+
+p {
+    font-size: 40px;
+}
+
+h1{
+    font-size: 100px;
+    /* text-align: center; */
+}
+
+h2{
+    color:tomato;
+    font-size: 70px;
+    text-align: center;
 }
 
 nav {
     float:left;
     width: 20%;
+    background-color: slategray;
+    height: 100%;
 }
 
 nav a{
     display: block;
     margin: 10px;
     text-align: center;
+    text-decoration: none;
 }
+
+nav a :hover{
+    color:tomato;
+}
+
+nav a :after{
+    color:tomato;
+}
+
+main section{    
+    /* display: none; */
+    float: left;
+    margin: 0 0 0 2%;
+    width: 78%;
+    background-color:silver;
+    color:white;
+    height: 800px;
+}
+
+.current_section{
+    display: block;
+}
+#home{
+    text-align: center;
+    padding-top: 300px;
+    height: 500px;
+}
+
